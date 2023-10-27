@@ -3,7 +3,11 @@
   - [Downloads for v1.10.13](#downloads-for-v11013)
     - [Client Binaries](#client-binaries)
     - [Server Binaries](#server-binaries)
-    - [Node Binaries](#node-binaries)
+    -
+    -
+    -
+    -
+    -     - [Node Binaries](#node-binaries)
   - [Changelog since v1.10.12](#changelog-since-v11012)
     - [Other notable changes](#other-notable-changes)
 - [v1.10.12](#v11012)
